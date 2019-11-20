@@ -16,3 +16,5 @@ workbook use shift+enter to run and move to next cell. The code has been written
 for demonstration purposed only, if you encounter any bugs please let me know
 at: samuel.ingram@postgrad.manchester.ac.uk and I will attempt to fix them in a
 timely manner. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/singram12/CRBP_PatientVerificationProblemSession/master)
